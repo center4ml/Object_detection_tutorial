@@ -6,4 +6,4 @@
 
 More information and instruction you can [here](https://github.com/SkalskiP/make-sense)
 
-![main-image-dark_alter](/home/anna_s/Ania/UW/projekty/detection/main-image-dark_alter.png)
+![main-image-dark_alter](_resourses/main-image-dark_alter.png)
