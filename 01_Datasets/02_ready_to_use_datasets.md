@@ -9,7 +9,7 @@ There are two places wit great resourses for that (both require creating account
 
 ### Kaggle
 
-In Kaggle, each dataset in organized by its author. In order to avoid extra work to parse non-standard annotation you may look for dataset in one of the common formats: COCO, YOLO, Pascal VOC, such as [African wildlife](https://www.kaggle.com/datasets/biancaferreira/african-wildlife)(YOLO), [fruit](https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detect)(Pascal VOC),  [tomato](https://www.kaggle.com/datasets/andrewmvd/tomato-detection)(Pascal VOC) or [reatil products](https://www.kaggle.com/datasets/diyer22/retail-product-checkout-dataset)
+In Kaggle, each dataset in organized by its author. In order to avoid extra work to parse non-standard annotation you may look for dataset in one of the common formats: COCO, YOLO, Pascal VOC, such as [African wildlife](https://www.kaggle.com/datasets/biancaferreira/african-wildlife)(YOLO), [fruit](https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detect)(Pascal VOC),  [tomato](https://www.kaggle.com/datasets/andrewmvd/tomato-detection)(Pascal VOC) or [reatil products](https://www.kaggle.com/datasets/diyer22/retail-product-checkout-dataset)(COCO)
 
 ### Roboflow step by setep (05.2022)
 
