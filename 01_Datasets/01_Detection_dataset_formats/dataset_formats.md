@@ -34,7 +34,7 @@ Additionally, in COCO all annotations are stored in single text file (in JSON fo
 
 ## COCO
 
-Great and informative descriptions are [here](https://www.immersivelimit.com/tutorials/create-coco-annotations-from-scratch)
+Great and informative description is [here](https://www.immersivelimit.com/tutorials/create-coco-annotations-from-scratch)
 
 ## YOLO
 
