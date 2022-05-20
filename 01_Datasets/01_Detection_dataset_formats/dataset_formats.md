@@ -25,6 +25,12 @@ Datsets can be converted between different formats
 
 ## Main differences
 
+COCO and YOLO use different conventions to describe bounding box location:
+
+![image-25](../_resourses/annotation-convertion-COCO-and-YOLO.png)
+(suorce: https://haobin-tan.netlify.app/ai/computer-vision/object-detection/coco-json-to-yolo-txt)
+
+Additionally, in COCO all annotations are stored in single text file (in JSON format), while in YOLO there is a sepaate file for each image.
 
 ## COCO
 
