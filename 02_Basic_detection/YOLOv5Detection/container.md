@@ -29,7 +29,7 @@ Singularity containers often are used in High Performance Computing (HPC) center
 2. copy `yolov5.tar` to HPC cluster
 3. To build a singularity container, you use the `singularity build` command. The singularity container may be created in ICM (or other HPC center) with the following command:
    ```
-   singularity build --tmpdir /home/{username}/tmp yolo.sif docker-archive://yolo.tar
+   singularity build --tmpdir /home/{username}/tmp yolo.sif docker-archive://yolov5.tar
    ```
 
 ## Running YOLOv5 training in Singularity container
