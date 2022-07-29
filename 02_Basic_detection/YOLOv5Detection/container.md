@@ -13,9 +13,13 @@
    ```
    docker build -t yolov5:latest -f utils/docker/Dockerfile .
    ```
-4. Run container
+4. Alternatively, if you saved the container into a tar file (see the next Section) you can load the image (instead of building it) with
    ```
-   docker run --gpus --it -v $pwd:/scratch
+   docker load -i yolov5.tar
+   ```
+5. Run container
+   ```
+   docker run --gpus all -it -v $pwd:/scratch yolov5
    ```
    (you may want to replace `$pwd` with another directory on the local machine that schould be visible in container in `/scratch` location)
 ## Building Singularity container for YOLOv5 model
