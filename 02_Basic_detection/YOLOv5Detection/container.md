@@ -19,9 +19,9 @@
    ```
 5. Run container
    ```
-   docker run --gpus all -it -v $pwd:/scratch yolov5
+   docker run --gpus all -it -v $PWD:/scratch yolov5
    ```
-   (you may want to replace `$pwd` with another directory on the local machine that schould be visible in container in `/scratch` location)
+   (you may want to replace `$PWD` with another directory on the local machine that schould be visible in container in `/scratch` location)
 ## Building Singularity container for YOLOv5 model
 
 Singularity containers often are used in High Performance Computing (HPC) centers. Singularity container can be build from Docker container. The steps are as follows:
