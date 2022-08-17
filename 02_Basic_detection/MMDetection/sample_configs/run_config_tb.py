@@ -8,10 +8,10 @@ lr_config = dict(
         step=[8])
 
 log_config = dict(
-           interval=100,
-           # hooks=[dict(type='TensorboardLoggerHook')]
+           interval=1000,
+           hooks=[dict(type='TensorboardLoggerHook')]
             )
 
 #checkpoint_config = dict(interval=1)
-runner = dict(max_epochs=10)
+runner = dict(max_iters=10000)
 
